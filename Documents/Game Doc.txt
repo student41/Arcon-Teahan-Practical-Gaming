@@ -1,0 +1,19 @@
+Ninja Run
+
+This is a stealth based game.
+The player must navigate the level without alerting the guards.
+The guards will become alerted when their vision cone detects a collision with the player.
+The player may use disguises, hiding spots and computer systems to help in avoiding the guards.
+
+The controls
+
+The up arrow key/ W will move the player forwards
+The up arrow key/ S will move the player backwords
+The up arrow key/ A will move the player to the left
+The up arrow key/ D will move the player to the right
+The spacebar allows the player to pick up items
+I will be used to check for hiding place
+U will be used to don a disguise
+H will be used to utilise security systems
+
+The camera is fixed above the player.
